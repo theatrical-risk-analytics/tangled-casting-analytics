@@ -1,0 +1,625 @@
+bookmarks,conversation_id,created_at,display_text_range/0,display_text_range/1,entities/media/0/additional_media_info/description,entities/media/0/additional_media_info/embeddable,entities/media/0/additional_media_info/monetizable,entities/media/0/additional_media_info/title,entities/media/0/allow_download_status/allow_download,entities/media/0/display_url,entities/media/0/expanded_url,entities/media/0/ext_media_availability/status,entities/media/0/features/large/faces/0/h,entities/media/0/features/large/faces/0/w,entities/media/0/features/large/faces/0/x,entities/media/0/features/large/faces/0/y,entities/media/0/features/large/faces/1/h,entities/media/0/features/large/faces/1/w,entities/media/0/features/large/faces/1/x,entities/media/0/features/large/faces/1/y,entities/media/0/features/large/faces/2/h,entities/media/0/features/large/faces/2/w,entities/media/0/features/large/faces/2/x,entities/media/0/features/large/faces/2/y,entities/media/0/features/large/faces/3/h,entities/media/0/features/large/faces/3/w,entities/media/0/features/large/faces/3/x,entities/media/0/features/large/faces/3/y,entities/media/0/features/large/faces/4/h,entities/media/0/features/large/faces/4/w,entities/media/0/features/large/faces/4/x,entities/media/0/features/large/faces/4/y,entities/media/0/features/medium/faces/0/h,entities/media/0/features/medium/faces/0/w,entities/media/0/features/medium/faces/0/x,entities/media/0/features/medium/faces/0/y,entities/media/0/features/medium/faces/1/h,entities/media/0/features/medium/faces/1/w,entities/media/0/features/medium/faces/1/x,entities/media/0/features/medium/faces/1/y,entities/media/0/features/medium/faces/2/h,entities/media/0/features/medium/faces/2/w,entities/media/0/features/medium/faces/2/x,entities/media/0/features/medium/faces/2/y,entities/media/0/features/medium/faces/3/h,entities/media/0/features/medium/faces/3/w,entities/media/0/features/medium/faces/3/x,entities/media/0/features/medium/faces/3/y,entities/media/0/features/medium/faces/4/h,entities/media/0/features/medium/faces/4/w,entities/media/0/features/medium/faces/4/x,entities/media/0/features/medium/faces/4/y,entities/media/0/features/orig/faces/0/h,entities/media/0/features/orig/faces/0/w,entities/media/0/features/orig/faces/0/x,entities/media/0/features/orig/faces/0/y,entities/media/0/features/orig/faces/1/h,entities/media/0/features/orig/faces/1/w,entities/media/0/features/orig/faces/1/x,entities/media/0/features/orig/faces/1/y,entities/media/0/features/orig/faces/2/h,entities/media/0/features/orig/faces/2/w,entities/media/0/features/orig/faces/2/x,entities/media/0/features/orig/faces/2/y,entities/media/0/features/orig/faces/3/h,entities/media/0/features/orig/faces/3/w,entities/media/0/features/orig/faces/3/x,entities/media/0/features/orig/faces/3/y,entities/media/0/features/orig/faces/4/h,entities/media/0/features/orig/faces/4/w,entities/media/0/features/orig/faces/4/x,entities/media/0/features/orig/faces/4/y,entities/media/0/features/small/faces/0/h,entities/media/0/features/small/faces/0/w,entities/media/0/features/small/faces/0/x,entities/media/0/features/small/faces/0/y,entities/media/0/features/small/faces/1/h,entities/media/0/features/small/faces/1/w,entities/media/0/features/small/faces/1/x,entities/media/0/features/small/faces/1/y,entities/media/0/features/small/faces/2/h,entities/media/0/features/small/faces/2/w,entities/media/0/features/small/faces/2/x,entities/media/0/features/small/faces/2/y,entities/media/0/features/small/faces/3/h,entities/media/0/features/small/faces/3/w,entities/media/0/features/small/faces/3/x,entities/media/0/features/small/faces/3/y,entities/media/0/features/small/faces/4/h,entities/media/0/features/small/faces/4/w,entities/media/0/features/small/faces/4/x,entities/media/0/features/small/faces/4/y,entities/media/0/id_str,entities/media/0/indices/0,entities/media/0/indices/1,entities/media/0/media_key,entities/media/0/media_results/result/media_key,entities/media/0/media_url_https,entities/media/0/original_info/focus_rects/0/h,entities/media/0/original_info/focus_rects/0/w,entities/media/0/original_info/focus_rects/0/x,entities/media/0/original_info/focus_rects/0/y,entities/media/0/original_info/focus_rects/1/h,entities/media/0/original_info/focus_rects/1/w,entities/media/0/original_info/focus_rects/1/x,entities/media/0/original_info/focus_rects/1/y,entities/media/0/original_info/focus_rects/2/h,entities/media/0/original_info/focus_rects/2/w,entities/media/0/original_info/focus_rects/2/x,entities/media/0/original_info/focus_rects/2/y,entities/media/0/original_info/focus_rects/3/h,entities/media/0/original_info/focus_rects/3/w,entities/media/0/original_info/focus_rects/3/x,entities/media/0/original_info/focus_rects/3/y,entities/media/0/original_info/focus_rects/4/h,entities/media/0/original_info/focus_rects/4/w,entities/media/0/original_info/focus_rects/4/x,entities/media/0/original_info/focus_rects/4/y,entities/media/0/original_info/height,entities/media/0/original_info/width,entities/media/0/sizes/large/h,entities/media/0/sizes/large/resize,entities/media/0/sizes/large/w,entities/media/0/sizes/medium/h,entities/media/0/sizes/medium/resize,entities/media/0/sizes/medium/w,entities/media/0/sizes/small/h,entities/media/0/sizes/small/resize,entities/media/0/sizes/small/w,entities/media/0/sizes/thumb/h,entities/media/0/sizes/thumb/resize,entities/media/0/sizes/thumb/w,entities/media/0/type,entities/media/0/url,entities/media/0/video_info/aspect_ratio/0,entities/media/0/video_info/aspect_ratio/1,entities/media/0/video_info/duration_millis,entities/media/0/video_info/variants/0/bitrate,entities/media/0/video_info/variants/0/content_type,entities/media/0/video_info/variants/0/url,entities/media/0/video_info/variants/1/bitrate,entities/media/0/video_info/variants/1/content_type,entities/media/0/video_info/variants/1/url,entities/media/0/video_info/variants/2/bitrate,entities/media/0/video_info/variants/2/content_type,entities/media/0/video_info/variants/2/url,entities/media/0/video_info/variants/3/bitrate,entities/media/0/video_info/variants/3/content_type,entities/media/0/video_info/variants/3/url,entities/media/1/additional_media_info/description,entities/media/1/additional_media_info/embeddable,entities/media/1/additional_media_info/monetizable,entities/media/1/additional_media_info/title,entities/media/1/allow_download_status/allow_download,entities/media/1/display_url,entities/media/1/expanded_url,entities/media/1/ext_media_availability/status,entities/media/1/features/large/faces/0/h,entities/media/1/features/large/faces/0/w,entities/media/1/features/large/faces/0/x,entities/media/1/features/large/faces/0/y,entities/media/1/features/large/faces/1/h,entities/media/1/features/large/faces/1/w,entities/media/1/features/large/faces/1/x,entities/media/1/features/large/faces/1/y,entities/media/1/features/large/faces/2/h,entities/media/1/features/large/faces/2/w,entities/media/1/features/large/faces/2/x,entities/media/1/features/large/faces/2/y,entities/media/1/features/large/faces/3/h,entities/media/1/features/large/faces/3/w,entities/media/1/features/large/faces/3/x,entities/media/1/features/large/faces/3/y,entities/media/1/features/large/faces/4/h,entities/media/1/features/large/faces/4/w,entities/media/1/features/large/faces/4/x,entities/media/1/features/large/faces/4/y,entities/media/1/features/medium/faces/0/h,entities/media/1/features/medium/faces/0/w,entities/media/1/features/medium/faces/0/x,entities/media/1/features/medium/faces/0/y,entities/media/1/features/medium/faces/1/h,entities/media/1/features/medium/faces/1/w,entities/media/1/features/medium/faces/1/x,entities/media/1/features/medium/faces/1/y,entities/media/1/features/medium/faces/2/h,entities/media/1/features/medium/faces/2/w,entities/media/1/features/medium/faces/2/x,entities/media/1/features/medium/faces/2/y,entities/media/1/features/medium/faces/3/h,entities/media/1/features/medium/faces/3/w,entities/media/1/features/medium/faces/3/x,entities/media/1/features/medium/faces/3/y,entities/media/1/features/medium/faces/4/h,entities/media/1/features/medium/faces/4/w,entities/media/1/features/medium/faces/4/x,entities/media/1/features/medium/faces/4/y,entities/media/1/features/orig/faces/0/h,entities/media/1/features/orig/faces/0/w,entities/media/1/features/orig/faces/0/x,entities/media/1/features/orig/faces/0/y,entities/media/1/features/orig/faces/1/h,entities/media/1/features/orig/faces/1/w,entities/media/1/features/orig/faces/1/x,entities/media/1/features/orig/faces/1/y,entities/media/1/features/orig/faces/2/h,entities/media/1/features/orig/faces/2/w,entities/media/1/features/orig/faces/2/x,entities/media/1/features/orig/faces/2/y,entities/media/1/features/orig/faces/3/h,entities/media/1/features/orig/faces/3/w,entities/media/1/features/orig/faces/3/x,entities/media/1/features/orig/faces/3/y,entities/media/1/features/orig/faces/4/h,entities/media/1/features/orig/faces/4/w,entities/media/1/features/orig/faces/4/x,entities/media/1/features/orig/faces/4/y,entities/media/1/features/small/faces/0/h,entities/media/1/features/small/faces/0/w,entities/media/1/features/small/faces/0/x,entities/media/1/features/small/faces/0/y,entities/media/1/features/small/faces/1/h,entities/media/1/features/small/faces/1/w,entities/media/1/features/small/faces/1/x,entities/media/1/features/small/faces/1/y,entities/media/1/features/small/faces/2/h,entities/media/1/features/small/faces/2/w,entities/media/1/features/small/faces/2/x,entities/media/1/features/small/faces/2/y,entities/media/1/features/small/faces/3/h,entities/media/1/features/small/faces/3/w,entities/media/1/features/small/faces/3/x,entities/media/1/features/small/faces/3/y,entities/media/1/features/small/faces/4/h,entities/media/1/features/small/faces/4/w,entities/media/1/features/small/faces/4/x,entities/media/1/features/small/faces/4/y,entities/media/1/id_str,entities/media/1/indices/0,entities/media/1/indices/1,entities/media/1/media_key,entities/media/1/media_results/result/media_key,entities/media/1/media_url_https,entities/media/1/original_info/focus_rects/0/h,entities/media/1/original_info/focus_rects/0/w,entities/media/1/original_info/focus_rects/0/x,entities/media/1/original_info/focus_rects/0/y,entities/media/1/original_info/focus_rects/1/h,entities/media/1/original_info/focus_rects/1/w,entities/media/1/original_info/focus_rects/1/x,entities/media/1/original_info/focus_rects/1/y,entities/media/1/original_info/focus_rects/2/h,entities/media/1/original_info/focus_rects/2/w,entities/media/1/original_info/focus_rects/2/x,entities/media/1/original_info/focus_rects/2/y,entities/media/1/original_info/focus_rects/3/h,entities/media/1/original_info/focus_rects/3/w,entities/media/1/original_info/focus_rects/3/x,entities/media/1/original_info/focus_rects/3/y,entities/media/1/original_info/focus_rects/4/h,entities/media/1/original_info/focus_rects/4/w,entities/media/1/original_info/focus_rects/4/x,entities/media/1/original_info/focus_rects/4/y,entities/media/1/original_info/height,entities/media/1/original_info/width,entities/media/1/sizes/large/h,entities/media/1/sizes/large/resize,entities/media/1/sizes/large/w,entities/media/1/sizes/medium/h,entities/media/1/sizes/medium/resize,entities/media/1/sizes/medium/w,entities/media/1/sizes/small/h,entities/media/1/sizes/small/resize,entities/media/1/sizes/small/w,entities/media/1/sizes/thumb/h,entities/media/1/sizes/thumb/resize,entities/media/1/sizes/thumb/w,entities/media/1/type,entities/media/1/url,entities/media/1/video_info/aspect_ratio/0,entities/media/1/video_info/aspect_ratio/1,entities/media/1/video_info/duration_millis,entities/media/1/video_info/variants/0/bitrate,entities/media/1/video_info/variants/0/content_type,entities/media/1/video_info/variants/0/url,entities/media/1/video_info/variants/1/bitrate,entities/media/1/video_info/variants/1/content_type,entities/media/1/video_info/variants/1/url,entities/media/1/video_info/variants/2/bitrate,entities/media/1/video_info/variants/2/content_type,entities/media/1/video_info/variants/2/url,entities/media/1/video_info/variants/3/bitrate,entities/media/1/video_info/variants/3/content_type,entities/media/1/video_info/variants/3/url,entities/media/2/additional_media_info/description,entities/media/2/additional_media_info/embeddable,entities/media/2/additional_media_info/monetizable,entities/media/2/additional_media_info/title,entities/media/2/allow_download_status/allow_download,entities/media/2/display_url,entities/media/2/expanded_url,entities/media/2/ext_media_availability/status,entities/media/2/features/large/faces/0/h,entities/media/2/features/large/faces/0/w,entities/media/2/features/large/faces/0/x,entities/media/2/features/large/faces/0/y,entities/media/2/features/large/faces/1/h,entities/media/2/features/large/faces/1/w,entities/media/2/features/large/faces/1/x,entities/media/2/features/large/faces/1/y,entities/media/2/features/large/faces/2/h,entities/media/2/features/large/faces/2/w,entities/media/2/features/large/faces/2/x,entities/media/2/features/large/faces/2/y,entities/media/2/features/large/faces/3/h,entities/media/2/features/large/faces/3/w,entities/media/2/features/large/faces/3/x,entities/media/2/features/large/faces/3/y,entities/media/2/features/large/faces/4/h,entities/media/2/features/large/faces/4/w,entities/media/2/features/large/faces/4/x,entities/media/2/features/large/faces/4/y,entities/media/2/features/medium/faces/0/h,entities/media/2/features/medium/faces/0/w,entities/media/2/features/medium/faces/0/x,entities/media/2/features/medium/faces/0/y,entities/media/2/features/medium/faces/1/h,entities/media/2/features/medium/faces/1/w,entities/media/2/features/medium/faces/1/x,entities/media/2/features/medium/faces/1/y,entities/media/2/features/medium/faces/2/h,entities/media/2/features/medium/faces/2/w,entities/media/2/features/medium/faces/2/x,entities/media/2/features/medium/faces/2/y,entities/media/2/features/medium/faces/3/h,entities/media/2/features/medium/faces/3/w,entities/media/2/features/medium/faces/3/x,entities/media/2/features/medium/faces/3/y,entities/media/2/features/medium/faces/4/h,entities/media/2/features/medium/faces/4/w,entities/media/2/features/medium/faces/4/x,entities/media/2/features/medium/faces/4/y,entities/media/2/features/orig/faces/0/h,entities/media/2/features/orig/faces/0/w,entities/media/2/features/orig/faces/0/x,entities/media/2/features/orig/faces/0/y,entities/media/2/features/orig/faces/1/h,entities/media/2/features/orig/faces/1/w,entities/media/2/features/orig/faces/1/x,entities/media/2/features/orig/faces/1/y,entities/media/2/features/orig/faces/2/h,entities/media/2/features/orig/faces/2/w,entities/media/2/features/orig/faces/2/x,entities/media/2/features/orig/faces/2/y,entities/media/2/features/orig/faces/3/h,entities/media/2/features/orig/faces/3/w,entities/media/2/features/orig/faces/3/x,entities/media/2/features/orig/faces/3/y,entities/media/2/features/orig/faces/4/h,entities/media/2/features/orig/faces/4/w,entities/media/2/features/orig/faces/4/x,entities/media/2/features/orig/faces/4/y,entities/media/2/features/small/faces/0/h,entities/media/2/features/small/faces/0/w,entities/media/2/features/small/faces/0/x,entities/media/2/features/small/faces/0/y,entities/media/2/features/small/faces/1/h,entities/media/2/features/small/faces/1/w,entities/media/2/features/small/faces/1/x,entities/media/2/features/small/faces/1/y,entities/media/2/features/small/faces/2/h,entities/media/2/features/small/faces/2/w,entities/media/2/features/small/faces/2/x,entities/media/2/features/small/faces/2/y,entities/media/2/features/small/faces/3/h,entities/media/2/features/small/faces/3/w,entities/media/2/features/small/faces/3/x,entities/media/2/features/small/faces/3/y,entities/media/2/features/small/faces/4/h,entities/media/2/features/small/faces/4/w,entities/media/2/features/small/faces/4/x,entities/media/2/features/small/faces/4/y,entities/media/2/id_str,entities/media/2/indices/0,entities/media/2/indices/1,entities/media/2/media_key,entities/media/2/media_results/result/media_key,entities/media/2/media_url_https,entities/media/2/original_info/focus_rects/0/h,entities/media/2/original_info/focus_rects/0/w,entities/media/2/original_info/focus_rects/0/x,entities/media/2/original_info/focus_rects/0/y,entities/media/2/original_info/focus_rects/1/h,entities/media/2/original_info/focus_rects/1/w,entities/media/2/original_info/focus_rects/1/x,entities/media/2/original_info/focus_rects/1/y,entities/media/2/original_info/focus_rects/2/h,entities/media/2/original_info/focus_rects/2/w,entities/media/2/original_info/focus_rects/2/x,entities/media/2/original_info/focus_rects/2/y,entities/media/2/original_info/focus_rects/3/h,entities/media/2/original_info/focus_rects/3/w,entities/media/2/original_info/focus_rects/3/x,entities/media/2/original_info/focus_rects/3/y,entities/media/2/original_info/focus_rects/4/h,entities/media/2/original_info/focus_rects/4/w,entities/media/2/original_info/focus_rects/4/x,entities/media/2/original_info/focus_rects/4/y,entities/media/2/original_info/height,entities/media/2/original_info/width,entities/media/2/sizes/large/h,entities/media/2/sizes/large/resize,entities/media/2/sizes/large/w,entities/media/2/sizes/medium/h,entities/media/2/sizes/medium/resize,entities/media/2/sizes/medium/w,entities/media/2/sizes/small/h,entities/media/2/sizes/small/resize,entities/media/2/sizes/small/w,entities/media/2/sizes/thumb/h,entities/media/2/sizes/thumb/resize,entities/media/2/sizes/thumb/w,entities/media/2/type,entities/media/2/url,entities/media/2/video_info/aspect_ratio/0,entities/media/2/video_info/aspect_ratio/1,entities/media/2/video_info/duration_millis,entities/media/2/video_info/variants/0/bitrate,entities/media/2/video_info/variants/0/content_type,entities/media/2/video_info/variants/0/url,entities/media/2/video_info/variants/1/bitrate,entities/media/2/video_info/variants/1/content_type,entities/media/2/video_info/variants/1/url,entities/media/2/video_info/variants/2/bitrate,entities/media/2/video_info/variants/2/content_type,entities/media/2/video_info/variants/2/url,entities/media/2/video_info/variants/3/bitrate,entities/media/2/video_info/variants/3/content_type,entities/media/2/video_info/variants/3/url,entities/media/3/additional_media_info/description,entities/media/3/additional_media_info/embeddable,entities/media/3/additional_media_info/monetizable,entities/media/3/additional_media_info/title,entities/media/3/allow_download_status/allow_download,entities/media/3/display_url,entities/media/3/expanded_url,entities/media/3/ext_media_availability/status,entities/media/3/features/large/faces/0/h,entities/media/3/features/large/faces/0/w,entities/media/3/features/large/faces/0/x,entities/media/3/features/large/faces/0/y,entities/media/3/features/large/faces/1/h,entities/media/3/features/large/faces/1/w,entities/media/3/features/large/faces/1/x,entities/media/3/features/large/faces/1/y,entities/media/3/features/large/faces/2/h,entities/media/3/features/large/faces/2/w,entities/media/3/features/large/faces/2/x,entities/media/3/features/large/faces/2/y,entities/media/3/features/large/faces/3/h,entities/media/3/features/large/faces/3/w,entities/media/3/features/large/faces/3/x,entities/media/3/features/large/faces/3/y,entities/media/3/features/large/faces/4/h,entities/media/3/features/large/faces/4/w,entities/media/3/features/large/faces/4/x,entities/media/3/features/large/faces/4/y,entities/media/3/features/medium/faces/0/h,entities/media/3/features/medium/faces/0/w,entities/media/3/features/medium/faces/0/x,entities/media/3/features/medium/faces/0/y,entities/media/3/features/medium/faces/1/h,entities/media/3/features/medium/faces/1/w,entities/media/3/features/medium/faces/1/x,entities/media/3/features/medium/faces/1/y,entities/media/3/features/medium/faces/2/h,entities/media/3/features/medium/faces/2/w,entities/media/3/features/medium/faces/2/x,entities/media/3/features/medium/faces/2/y,entities/media/3/features/medium/faces/3/h,entities/media/3/features/medium/faces/3/w,entities/media/3/features/medium/faces/3/x,entities/media/3/features/medium/faces/3/y,entities/media/3/features/medium/faces/4/h,entities/media/3/features/medium/faces/4/w,entities/media/3/features/medium/faces/4/x,entities/media/3/features/medium/faces/4/y,entities/media/3/features/orig/faces/0/h,entities/media/3/features/orig/faces/0/w,entities/media/3/features/orig/faces/0/x,entities/media/3/features/orig/faces/0/y,entities/media/3/features/orig/faces/1/h,entities/media/3/features/orig/faces/1/w,entities/media/3/features/orig/faces/1/x,entities/media/3/features/orig/faces/1/y,entities/media/3/features/orig/faces/2/h,entities/media/3/features/orig/faces/2/w,entities/media/3/features/orig/faces/2/x,entities/media/3/features/orig/faces/2/y,entities/media/3/features/orig/faces/3/h,entities/media/3/features/orig/faces/3/w,entities/media/3/features/orig/faces/3/x,entities/media/3/features/orig/faces/3/y,entities/media/3/features/orig/faces/4/h,entities/media/3/features/orig/faces/4/w,entities/media/3/features/orig/faces/4/x,entities/media/3/features/orig/faces/4/y,entities/media/3/features/small/faces/0/h,entities/media/3/features/small/faces/0/w,entities/media/3/features/small/faces/0/x,entities/media/3/features/small/faces/0/y,entities/media/3/features/small/faces/1/h,entities/media/3/features/small/faces/1/w,entities/media/3/features/small/faces/1/x,entities/media/3/features/small/faces/1/y,entities/media/3/features/small/faces/2/h,entities/media/3/features/small/faces/2/w,entities/media/3/features/small/faces/2/x,entities/media/3/features/small/faces/2/y,entities/media/3/features/small/faces/3/h,entities/media/3/features/small/faces/3/w,entities/media/3/features/small/faces/3/x,entities/media/3/features/small/faces/3/y,entities/media/3/features/small/faces/4/h,entities/media/3/features/small/faces/4/w,entities/media/3/features/small/faces/4/x,entities/media/3/features/small/faces/4/y,entities/media/3/id_str,entities/media/3/indices/0,entities/media/3/indices/1,entities/media/3/media_key,entities/media/3/media_results/result/media_key,entities/media/3/media_url_https,entities/media/3/original_info/focus_rects/0/h,entities/media/3/original_info/focus_rects/0/w,entities/media/3/original_info/focus_rects/0/x,entities/media/3/original_info/focus_rects/0/y,entities/media/3/original_info/focus_rects/1/h,entities/media/3/original_info/focus_rects/1/w,entities/media/3/original_info/focus_rects/1/x,entities/media/3/original_info/focus_rects/1/y,entities/media/3/original_info/focus_rects/2/h,entities/media/3/original_info/focus_rects/2/w,entities/media/3/original_info/focus_rects/2/x,entities/media/3/original_info/focus_rects/2/y,entities/media/3/original_info/focus_rects/3/h,entities/media/3/original_info/focus_rects/3/w,entities/media/3/original_info/focus_rects/3/x,entities/media/3/original_info/focus_rects/3/y,entities/media/3/original_info/focus_rects/4/h,entities/media/3/original_info/focus_rects/4/w,entities/media/3/original_info/focus_rects/4/x,entities/media/3/original_info/focus_rects/4/y,entities/media/3/original_info/height,entities/media/3/original_info/width,entities/media/3/sizes/large/h,entities/media/3/sizes/large/resize,entities/media/3/sizes/large/w,entities/media/3/sizes/medium/h,entities/media/3/sizes/medium/resize,entities/media/3/sizes/medium/w,entities/media/3/sizes/small/h,entities/media/3/sizes/small/resize,entities/media/3/sizes/small/w,entities/media/3/sizes/thumb/h,entities/media/3/sizes/thumb/resize,entities/media/3/sizes/thumb/w,entities/media/3/type,entities/media/3/url,entities/media/3/video_info/aspect_ratio/0,entities/media/3/video_info/aspect_ratio/1,entities/media/3/video_info/duration_millis,entities/media/3/video_info/variants/0/bitrate,entities/media/3/video_info/variants/0/content_type,entities/media/3/video_info/variants/0/url,entities/media/3/video_info/variants/1/bitrate,entities/media/3/video_info/variants/1/content_type,entities/media/3/video_info/variants/1/url,entities/media/3/video_info/variants/2/bitrate,entities/media/3/video_info/variants/2/content_type,entities/media/3/video_info/variants/2/url,entities/media/3/video_info/variants/3/bitrate,entities/media/3/video_info/variants/3/content_type,entities/media/3/video_info/variants/3/url,entities/urls/0/display_url,entities/urls/0/expanded_url,entities/urls/0/indices/0,entities/urls/0/indices/1,entities/urls/0/url,entities/user_mentions/0/id_str,entities/user_mentions/0/indices/0,entities/user_mentions/0/indices/1,entities/user_mentions/0/name,entities/user_mentions/0/screen_name,favorites,in_reply_to_screen_name,in_reply_to_status_id_str,in_reply_to_user_id_str,lang,media/photo/0/id,media/photo/0/media_url_https,media/photo/0/sizes/h,media/photo/0/sizes/w,media/photo/1/id,media/photo/1/media_url_https,media/photo/1/sizes/h,media/photo/1/sizes/w,media/photo/2/id,media/photo/2/media_url_https,media/photo/2/sizes/h,media/photo/2/sizes/w,media/photo/3/id,media/photo/3/media_url_https,media/photo/3/sizes/h,media/photo/3/sizes/w,media/video/0/aspect_ratio/0,media/video/0/aspect_ratio/1,media/video/0/duration,media/video/0/id,media/video/0/media_url_https,media/video/0/original_info/height,media/video/0/original_info/width,media/video/0/variants/0/bitrate,media/video/0/variants/0/content_type,media/video/0/variants/0/url,media/video/0/variants/1/bitrate,media/video/0/variants/1/content_type,media/video/0/variants/1/url,media/video/0/variants/2/bitrate,media/video/0/variants/2/content_type,media/video/0/variants/2/url,media/video/0/variants/3/bitrate,media/video/0/variants/3/content_type,media/video/0/variants/3/url,quoted/author/avatar,quoted/author/blue_verified,quoted/author/created_at,quoted/author/name,quoted/author/rest_id,quoted/author/screen_name,quoted/bookmarks,quoted/conversation_id,quoted/created_at,quoted/favorites,quoted/lang,quoted/media/photo/0/id,quoted/media/photo/0/media_url_https,quoted/media/photo/0/sizes/h,quoted/media/photo/0/sizes/w,quoted/media/photo/1/id,quoted/media/photo/1/media_url_https,quoted/media/photo/1/sizes/h,quoted/media/photo/1/sizes/w,quoted/media/video/0/aspect_ratio/0,quoted/media/video/0/aspect_ratio/1,quoted/media/video/0/duration,quoted/media/video/0/id,quoted/media/video/0/media_url_https,quoted/media/video/0/original_info/height,quoted/media/video/0/original_info/width,quoted/media/video/0/variants/0/bitrate,quoted/media/video/0/variants/0/content_type,quoted/media/video/0/variants/0/url,quoted/media/video/0/variants/1/bitrate,quoted/media/video/0/variants/1/content_type,quoted/media/video/0/variants/1/url,quoted/media/video/0/variants/2/bitrate,quoted/media/video/0/variants/2/content_type,quoted/media/video/0/variants/2/url,quoted/media/video/0/variants/3/bitrate,quoted/media/video/0/variants/3/content_type,quoted/media/video/0/variants/3/url,quoted/media/video/0/variants/4/bitrate,quoted/media/video/0/variants/4/content_type,quoted/media/video/0/variants/4/url,quoted/quotes,quoted/replies,quoted/retweets,quoted/text,quoted/tweet_id,quoted/views,quotes,replies,retweets,screen_name,source,text,tweet_id,type,user_info/avatar,user_info/cover_image,user_info/created_at,user_info/description,user_info/favourites_count,user_info/followers_count,user_info/friends_count,user_info/location,user_info/name,user_info/rest_id,user_info/screen_name,user_info/url,user_info/verified,user_info/verified_type,views,label,confidence
+7,1777001758935441419,Sun Apr 07 15:53:29 +0000 2024,0,49,,,,,,pic.x.com/Qe1PGHHTJ6,https://x.com/julianmiflaco/status/1777001758935441419/photo/1,Available,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1.7770017489110671e+18,50.0,73.0,16_1777001748911067136,16_1777001748911067136,https://pbs.twimg.com/tweet_video_thumb/GKktrPkXkAAdyiy.jpg,,,,,,,,,,,,,,,,,,,,,440.0,440.0,440.0,fit,440.0,440.0,fit,440.0,440.0,fit,440.0,150.0,crop,150.0,animated_gif,https://t.co/Qe1PGHHTJ6,1.0,1.0,,0.0,video/mp4,https://video.twimg.com/tweet_video/GKktrPkXkAAdyiy.mp4,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,220,,,,en,,,,,,,,,,,,,,,,,1.0,1.0,,1.7770017489110671e+18,https://pbs.twimg.com/tweet_video_thumb/GKktrPkXkAAdyiy.jpg,440.0,440.0,0.0,video/mp4,https://video.twimg.com/tweet_video/GKktrPkXkAAdyiy.mp4,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,2,33,julianmiflaco,"<a href=""http://twitter.com/download/android"" rel=""nofollow"">Twitter for Android</a>",me if defending woc rapunzel fancasts was a crime https://t.co/Qe1PGHHTJ6,1777001758935441419,tweet,https://pbs.twimg.com/profile_images/2064361262872408065/AyNtyjau_normal.jpg,https://pbs.twimg.com/profile_banners/1413288812562821121/1756770076,Fri Jul 09 00:08:13 +0000 2021,"rujinu & timebomb princess, rapple & kingdon manager ⚢
+— @luvrqpunzel backup | i block freely
+https://t.co/vjZV3g9pSr",499662,22182,5890,ic @ dannyisonfiree,chia,1413288812562821121,julianmiflaco,https://www.youtube.com/@ChiaNationReacts,False,,10778,neutral,0.5685920715332031
+160,1996741403041268068,Fri Dec 05 00:40:22 +0000 2025,0,90,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,3305,,,,en,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,https://pbs.twimg.com/profile_images/1339620577523462147/8Sb_cCzd_normal.jpg,True,Thu Dec 17 17:12:06 +0000 2020,Film Updates,1.33961932557824e+18,FilmUpdates,3428.0,1.9966437273230546e+18,Thu Dec 04 18:12:15 +0000 2025,40312.0,en,1.9966437228771942e+18,https://pbs.twimg.com/media/G7WA4yUb0AEtxmx.jpg,1024.0,1024.0,1.9966437228770877e+18,https://pbs.twimg.com/media/G7WA4yUaMAAsLg6.jpg,1024.0,1024.0,,,,,,,,,,,,,,,,,,,,,,,5488.0,947.0,1640.0,"McKenna Grace, Sadie Sink, Isabel May and Emma Myers are reportedly being eyed for the role of Rapunzel in the live-action ‘TANGLED’ movie.
+
+(Source: https://t.co/6yl3onbUXQ) https://t.co/tEUFSgFHgK",1.9966437273230546e+18,13497708.0,4,66,74,DeIudedShaniqwa,"<a href=""http://twitter.com/download/iphone"" rel=""nofollow"">Twitter for iPhone</a>",Four white girls are being considered for the role of Rapunzel woke is so fucking dead man,1996741403041268068,tweet,https://pbs.twimg.com/profile_images/1359931150345584647/RXtonI2E_normal.jpg,https://pbs.twimg.com/profile_banners/1359923836356018176/1681763943,Thu Feb 11 17:54:52 +0000 2021,Satire,11930,164989,48,,Shaniqua Posting Delusions,1359923836356018176,DeIudedShaniqwa,,True,,65773,negative,0.8596751689910889
+360,1789003418243117259,Fri May 10 18:43:47 +0000 2024,0,204,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,8773,,,,en,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,https://pbs.twimg.com/profile_images/1925455429922172928/5cWwSGh0_normal.jpg,True,Sun Jun 28 05:49:45 +0000 2020,Wokal Distance,1.2771168634119373e+18,wokal_distance,288.0,1.788654883706737e+18,Thu May 09 19:38:50 +0000 2024,4501.0,en,,,,,,,,,16.0,9.0,14220.0,1.78858754540979e+18,https://pbs.twimg.com/amplify_video_thumb/1788587545409789952/img/8lUviWcR7Aap7MUu.jpg,1080.0,1920.0,,application/x-mpegURL,https://video.twimg.com/amplify_video/1788587545409789952/pl/005ttfTmdcXlaQmw.m3u8?tag=16&v=a2d,288000.0,video/mp4,https://video.twimg.com/amplify_video/1788587545409789952/vid/avc1/480x270/Fiz7SiakKo35byRc.mp4?tag=16,832000.0,video/mp4,https://video.twimg.com/amplify_video/1788587545409789952/vid/avc1/640x360/ybRcICxPEuGYR0eL.mp4?tag=16,2176000.0,video/mp4,https://video.twimg.com/amplify_video/1788587545409789952/vid/avc1/1280x720/2FkNkU5yHq-DIOHJ.mp4?tag=16,10368000.0,video/mp4,https://video.twimg.com/amplify_video/1788587545409789952/vid/avc1/1920x1080/IfYYEMrlYB8vXCCA.mp4?tag=16,126.0,332.0,889.0,"Why is climate change activist Gretta Thunberg at a Palestine protest you ask?
+
+Because the issue is never the issue, the issue is always the revolution - and both climate change and Palestine are issues the left uses to build support for their revolution.
+https://t.co/Qu54HJIsPQ",1.788654883706737e+18,681646.0,69,394,1287,jordanbpeterson,"<a href=""https://mobile.twitter.com"" rel=""nofollow"">Twitter Web App</a>","The principality of the darkness of Cain
+Resentment, pride and envy as the fundamental compelling force
+We even worship pride now
+
+Everything tangled together in a radically woke leftist meta-Marxist mess",1789003418243117259,tweet,https://pbs.twimg.com/profile_images/1407056014776614923/TKBC60e1_normal.jpg,https://pbs.twimg.com/profile_banners/95092020/1768079001,Sun Dec 06 23:33:02 +0000 2009,"Best-Selling Author | Clinical Psychologist | #1 Education Podcast | Co-founder of @petersonacademy | Order my new book ""We Who Wrestle With God"" here:",228,6173430,1651,,Dr Jordan B Peterson,95092020,jordanbpeterson,http://jordanbpeterson.com/books,True,,549220,negative,0.7124271988868713
+2,2009603564457386321,Fri Jan 09 12:30:01 +0000 2026,0,137,,,,,True,pic.x.com/GyJSysNEDX,https://x.com/GeeksGamersCom/status/2009603564457386321/photo/1,Available,42.0,42.0,418.0,68.0,195.0,195.0,687.0,207.0,218.0,218.0,468.0,216.0,297.0,297.0,23.0,151.0,340.0,340.0,883.0,146.0,39.0,39.0,391.0,63.0,182.0,182.0,644.0,194.0,204.0,204.0,438.0,202.0,278.0,278.0,21.0,141.0,318.0,318.0,827.0,136.0,42.0,42.0,418.0,68.0,195.0,195.0,687.0,207.0,218.0,218.0,468.0,216.0,297.0,297.0,23.0,151.0,340.0,340.0,883.0,146.0,22.0,22.0,222.0,36.0,103.0,103.0,364.0,109.0,115.0,115.0,248.0,114.0,157.0,157.0,12.0,80.0,180.0,180.0,469.0,77.0,2.0095253807769231e+18,138.0,161.0,3_2009525380776923136,3_2009525380776923136,https://pbs.twimg.com/media/G-NEr9hXEAAAMu1.jpg,717.0,1280.0,0.0,0.0,720.0,720.0,0.0,0.0,720.0,632.0,0.0,0.0,720.0,360.0,0.0,0.0,720.0,1280.0,0.0,0.0,720.0,1280.0,720.0,fit,1280.0,675.0,fit,1200.0,383.0,fit,680.0,150.0,crop,150.0,photo,https://t.co/GyJSysNEDX,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,geeksandgamers.com/tangled-live-a…,https://geeksandgamers.com/tangled-live-action-cast/,114.0,137.0,https://t.co/gQShrRzcHt,,,,,,36,,,,en,2.0095253807769231e+18,https://pbs.twimg.com/media/G-NEr9hXEAAAMu1.jpg,675.0,1200.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,4,2,GeeksGamersCom,"<a href=""https://mobile.twitter.com"" rel=""nofollow"">Twitter Web App</a>","Tangled Live-Action Cast: Teagan Croft as Rapunzel, Milo Manheim as Flynn – Will No Race-Swap Bring Controversy? 
+https://t.co/gQShrRzcHt https://t.co/GyJSysNEDX",2009603564457386321,tweet,https://pbs.twimg.com/profile_images/1605631473935056904/o6PKWHv4_normal.jpg,https://pbs.twimg.com/profile_banners/377653828/1657150850,Wed Sep 21 22:26:50 +0000 2011,"Latest news in video games, movies, social media and more 🎮🎙️ | https://t.co/vtZHQCHw1a 📩 Advertising  inquiries: Contact@geeksandgamers.com",39480,99792,132,,Geeks + Gamers,377653828,GeeksGamersCom,http://www.GeeksandGamers.com,True,,2266,neutral,0.9160029292106628
+13,1976993252059332808,Sat Oct 11 12:48:16 +0000 2025,0,277,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,278,,,,en,1.9769932459272233e+18,https://pbs.twimg.com/media/G2-w4fLWsAAdWqY.jpg,1200.0,1087.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2,50,25,OliLondonTV,"<a href=""http://twitter.com/download/iphone"" rel=""nofollow"">Twitter for iPhone</a>","Disney likely to hire white actress to play Rapunzel in Tangled after ditching DEI casting and hiring following ‘woke’ backlash. 
+
+It comes after backlash following Disney casting Latina actress Rachel Zegler as Snow White and casting black actress Halle Bailey as Ariel in the Little Mermaid. 
+
+Following Snow White’s poor performance at the box office, Disney shelved the live action remake of Tangled- but now plans for the movie have been revived. 
+
+Industry insider Matthew Belloni revealed that Disney executives told him the company is aware of anti-woke backlash and has taken note. 
+
+“Disney is about to cast a new Rapunzel in the revived live-action remake of Tangled. I’ll bet you the price of that long, braided wig that the gig will go to a white actress.”
+
+Source: Daily Mail",1976993252059332808,tweet,https://pbs.twimg.com/profile_images/1984771215370932225/RBjXacSX_normal.jpg,https://pbs.twimg.com/profile_banners/91416107/1722797314,Fri Nov 20 20:14:21 +0000 2009,📖Author of Gender Madness | 📺 News Contributor,91317,598399,2754,,Oli London,91416107,OliLondonTV,https://www.amazon.com/dp/1510778063?ref_=cm_sw_r_mwn_dp_YNRR7MBX971ZJ6MKX2D2,True,,24053,neutral,0.8031867742538452
+0,2009188263698051075,Thu Jan 08 08:59:45 +0000 2026,0,282,,,,,,pic.x.com/hBO3b0puzU,https://x.com/StudentGirl123/status/2009188263698051075/photo/1,Available,57.0,57.0,250.0,18.0,54.0,54.0,369.0,35.0,58.0,58.0,145.0,44.0,51.0,51.0,22.0,76.0,,,,,57.0,57.0,250.0,18.0,54.0,54.0,369.0,35.0,58.0,58.0,145.0,44.0,51.0,51.0,22.0,76.0,,,,,57.0,57.0,250.0,18.0,54.0,54.0,369.0,35.0,58.0,58.0,145.0,44.0,51.0,51.0,22.0,76.0,,,,,57.0,57.0,250.0,18.0,54.0,54.0,369.0,35.0,58.0,58.0,145.0,44.0,51.0,51.0,22.0,76.0,,,,,2.009188259906343e+18,283.0,306.0,3_2009188259906342912,3_2009188259906342912,https://pbs.twimg.com/media/G-ISE8aaUAAtY0a.jpg,213.0,380.0,66.0,0.0,213.0,213.0,172.0,0.0,213.0,187.0,185.0,0.0,213.0,107.0,225.0,0.0,213.0,446.0,0.0,0.0,213.0,446.0,213.0,fit,446.0,213.0,fit,446.0,213.0,fit,446.0,150.0,crop,150.0,photo,https://t.co/hBO3b0puzU,,,,,,,,,,,,,,,,,,,,,pic.x.com/hBO3b0puzU,https://x.com/StudentGirl123/status/2009188263698051075/photo/1,Available,37.0,37.0,76.0,12.0,35.0,35.0,200.0,13.0,36.0,36.0,25.0,17.0,36.0,36.0,144.0,18.0,,,,,37.0,37.0,76.0,12.0,35.0,35.0,200.0,13.0,36.0,36.0,25.0,17.0,36.0,36.0,144.0,18.0,,,,,37.0,37.0,76.0,12.0,35.0,35.0,200.0,13.0,36.0,36.0,25.0,17.0,36.0,36.0,144.0,18.0,,,,,37.0,37.0,76.0,12.0,35.0,35.0,200.0,13.0,36.0,36.0,25.0,17.0,36.0,36.0,144.0,18.0,,,,,2.00918825991057e+18,283.0,306.0,3_2009188259910569984,3_2009188259910569984,https://pbs.twimg.com/media/G-ISE8ba0AA5xKp.jpg,141.0,252.0,0.0,0.0,176.0,176.0,6.0,0.0,176.0,154.0,17.0,0.0,176.0,88.0,50.0,0.0,176.0,252.0,0.0,0.0,176.0,252.0,176.0,fit,252.0,176.0,fit,252.0,176.0,fit,252.0,150.0,crop,150.0,photo,https://t.co/hBO3b0puzU,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2,,,,en,2.009188259906343e+18,https://pbs.twimg.com/media/G-ISE8aaUAAtY0a.jpg,213.0,446.0,2.00918825991057e+18,https://pbs.twimg.com/media/G-ISE8ba0AA5xKp.jpg,176.0,252.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,https://pbs.twimg.com/profile_images/2049165840667623425/3zeyVj9w_normal.jpg,,Sat Jun 19 08:30:26 +0000 2021,ꕤ kaeden ꕤ,1.4061674338707087e+18,wandasitcoms,1095.0,2.009011447775535e+18,Wed Jan 07 21:17:09 +0000 2026,38745.0,en,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,321.0,409.0,3545.0,"she's not german or naturally blonde (i think?) but since she's white no one will have an issue with that
+
+but oh the horrors that would've unleashed if it were a woc",2.009011447775535e+18,1367541.0,0,0,0,StudentGirl123,"<a href=""http://twitter.com/download/iphone"" rel=""nofollow"">Twitter for iPhone</a>","You’re remaking the Tangled Animated movie, of course people want the remake to look like the cartoon version (also Rapunzel tale is from Europe). WOC deserve our own stories.
+I’m Filipino &amp; I don’t look for validation from Western tales. 
+Here are original Filipino characters: https://t.co/hBO3b0puzU",2009188263698051075,tweet,https://pbs.twimg.com/profile_images/2061994677533110272/4vTNpLKs_normal.jpg,https://pbs.twimg.com/profile_banners/839396652897058816/1758512331,Wed Mar 08 08:45:32 +0000 2017,Moon Chae Won. Liza Soberano. Sageuk & Sageuk Actresses (Non-Kpop). Period Dramas. History. Jane Austen. Anti Kpop & Anti-Kpopization of Sageuk,21966,118,83,,StudentGirl123,839396652897058816,StudentGirl123,,False,,374,neutral,0.7220542430877686
+0,2009138479440253110,Thu Jan 08 05:41:56 +0000 2026,0,280,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,3,,,,en,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,1,0,edgeof21,"<a href=""http://twitter.com/download/iphone"" rel=""nofollow"">Twitter for iPhone</a>","Genuine question, why does it matter if Tangled live action movie casted white female and not woc? As much as i would loved to see Maitreyi or Avantika as rapunzel, i really don’t want them to get the hate like little mermaid. People were straight up being racist to halle Bailey.",2009138479440253110,tweet,https://pbs.twimg.com/profile_images/2052767699973926912/flfcskT9_normal.jpg,https://pbs.twimg.com/profile_banners/1993003354491174915/1778278509,Mon Nov 24 17:06:54 +0000 2025,,770,25,105,Westeros,edge of 21,1993003354491174915,edgeof21,,False,,396,negative,0.744081974029541
+7,1908513453372821727,Sat Apr 05 13:34:00 +0000 2025,0,105,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,thepostmillennial.com/disney-halts-t…,https://thepostmillennial.com/disney-halts-tangled-project-after-woke-snow-white-bombs-at-box-office-report?utm_campaign=64483,82.0,105.0,https://t.co/ZD9r3cASe3,,,,,,449,,,,en,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1,67,63,JackPosobiec,"<a href=""https://mobile.twitter.com"" rel=""nofollow"">Twitter Web App</a>","Disney halts 'Tangled' project after woke Snow White bombs at box office: report
+
+https://t.co/ZD9r3cASe3",1908513453372821727,tweet,https://pbs.twimg.com/profile_images/2018743563488571392/jZ0MJk6q_normal.jpg,https://pbs.twimg.com/profile_banners/592730371/1736469514,Mon May 28 13:31:22 +0000 2012,Long Live Charlie Kirk. @HumanEvents. Navy intel vet. NYT Bestselling Anti-Communist Author. @TPUSA. The @AngryGoTFan,190803,3297508,988,,Jack Posobiec,592730371,JackPosobiec,http://amzn.to/3Xi82H0,True,,36055,neutral,0.5173835754394531
+0,2066975554226565446,Tue Jun 16 20:05:49 +0000 2026,0,169,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,,,,en,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0,0,tyunboobies,"<a href=""https://mobile.twitter.com"" rel=""nofollow"">Twitter Web App</a>","hexed is just one another ""adorkable"" disney representation, like we've had repetitively since rapunzel and anna, I'm so done with it bro, can't we get more diversity...",2066975554226565446,tweet,https://pbs.twimg.com/profile_images/2061414709845266433/YegnRaiw_normal.jpg,https://pbs.twimg.com/profile_banners/1509181928896872450/1763003090,Wed Mar 30 14:53:27 +0000 2022,"𝗪𝗨𝗧𝗛𝗘𝗥𝗜𝗡𝗚 𝗪𝗔𝗩𝗘𝗦 fan account  |  cantarella and lucilla's wife 🪼 |  gachas, anime and manhwa enjoyer",64631,831,903,she/they | 🍉 | 21,mila ⚓ saw txt,1509181928896872450,tyunboobies,,False,,90,negative,0.9277312159538269
+491,1908220856641478677,Fri Apr 04 18:11:19 +0000 2025,0,53,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,30549,,,,en,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,43,482,953,EndymionYT,"<a href=""http://twitter.com/download/iphone"" rel=""nofollow"">Twitter for iPhone</a>",They were 1000% gonna race swap Rapunzel weren’t they,1908220856641478677,tweet,https://pbs.twimg.com/profile_images/1939940895232589824/5KnprnhS_normal.jpg,https://pbs.twimg.com/profile_banners/1353868545533177857/1726502826,Tue Jan 26 00:53:17 +0000 2021,A cynical man making YouTube videos 🇷🇸 🇦🇲 Custom Banner by @Shimhaq | YT: https://t.co/UZHT2CI80n,117527,37680,517,,Endymion,1353868545533177857,EndymionYT,,True,,753528,neutral,0.7518237233161926
+12,2065274059383050554,Fri Jun 12 03:24:41 +0000 2026,0,47,,,,,,pic.x.com/UBg1cNCaeQ,https://x.com/DisneyScoopGuy/status/2065274059383050554/photo/1,Available,217.0,217.0,181.0,708.0,242.0,242.0,198.0,89.0,235.0,235.0,819.0,683.0,253.0,253.0,741.0,137.0,,,,,217.0,217.0,181.0,708.0,242.0,242.0,198.0,89.0,235.0,235.0,819.0,683.0,253.0,253.0,741.0,137.0,,,,,217.0,217.0,181.0,708.0,242.0,242.0,198.0,89.0,235.0,235.0,819.0,683.0,253.0,253.0,741.0,137.0,,,,,122.0,122.0,102.0,401.0,137.0,137.0,112.0,50.0,133.0,133.0,464.0,387.0,143.0,143.0,419.0,77.0,,,,,2.0652740530202952e+18,48.0,71.0,3_2065274053020295168,3_2065274053020295168,https://pbs.twimg.com/media/HKlTzxYbIAA3H2x.jpg,672.0,1200.0,0.0,234.0,1200.0,1200.0,0.0,0.0,1200.0,1053.0,0.0,0.0,1200.0,600.0,0.0,0.0,1200.0,1200.0,0.0,0.0,1200.0,1200.0,1200.0,fit,1200.0,1200.0,fit,1200.0,680.0,fit,680.0,150.0,crop,150.0,photo,https://t.co/UBg1cNCaeQ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,84,,,,en,2.0652740530202952e+18,https://pbs.twimg.com/media/HKlTzxYbIAA3H2x.jpg,1200.0,1200.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,https://pbs.twimg.com/profile_images/2040408070308712448/d4fT_txk_normal.jpg,True,Sun Jul 07 00:13:07 +0000 2019,Disney Clips Guy,1.1476597758382162e+18,disneytipsguy,2.0,2.0652186528827845e+18,Thu Jun 11 23:44:31 +0000 2026,67.0,en,2.0652184159674941e+18,https://pbs.twimg.com/media/HKkhNRNWYAAPsEO.jpg,1152.0,864.0,,,,,,,,,,,,,,,,,,,,,,,,,,,1.0,5.0,2.0,"Instead of a Tangled bathroom...we need at Tangled attraction in the Magic Kingdom.
+
+How about a Mother Gothel themed omni mover for Villains Land? https://t.co/ekd3p145HB",2.0652186528827845e+18,10512.0,1,5,7,DisneyScoopGuy,"<a href=""http://twitter.com/download/iphone"" rel=""nofollow"">Twitter for iPhone</a>",Not all Tangled representation is created equal https://t.co/UBg1cNCaeQ,2065274059383050554,tweet,https://pbs.twimg.com/profile_images/1863015620607975424/_3_LIGMW_normal.jpg,https://pbs.twimg.com/profile_banners/2545609609/1716700529,Wed Jun 04 08:51:38 +0000 2014,"In 2025 I went to Disneyland every day for 366 days in a row. Follow for Disney news, updates, and funny Disney content!",64523,9310,1463,"Los Angeles, CA",Matt,2545609609,DisneyScoopGuy,http://linktree.com/DisneyScoop,True,,8407,neutral,0.5279585123062134
+1,2066224370910130644,Sun Jun 14 18:20:53 +0000 2026,0,277,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,MadLib.ai,http://MadLib.ai,0.0,23.0,https://t.co/3PNFjT0bAe,,,,,,3,,,,en,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0,0,denvercoder,"<a href=""http://twitter.com/download/iphone"" rel=""nofollow"">Twitter for iPhone</a>","https://t.co/3PNFjT0bAe
+
+The Day the AI Took Over the Job Site
+
+One morning, I woke up and asked my AI assistant named C̲h̲a̲t̲G̲P̲T̲ to help me find my missing a̲l̲g̲o̲r̲i̲t̲h̲m̲.
+
+It told me to check inside the n̲e̲u̲r̲a̲l̲ n̲e̲t̲w̲o̲r̲k̲, but all I found was a very confused l̲a̲r̲g̲e̲ l̲a̲n̲g̲u̲a̲g̲e̲ m̲o̲d̲e̲l̲ wearing a h̲a̲r̲d̲ h̲a̲t̲.
+
+Then my boss walked in and shouted, “Who installed this m̲a̲c̲h̲i̲n̲e̲ l̲e̲a̲r̲n̲i̲n̲g̲ system in the break room?”
+
+I said, “It wasn’t me. It was the g̲e̲n̲e̲r̲a̲t̲i̲v̲e̲ A̲I̲.”
+
+Suddenly, the coffee machine started producing p̲r̲e̲d̲i̲c̲t̲i̲v̲e̲ a̲n̲a̲l̲y̲t̲i̲c̲s̲ instead of coffee, and the printer kept printing pictures of r̲o̲b̲o̲t̲ e̲l̲e̲c̲t̲r̲i̲c̲i̲a̲n̲s̲ riding s̲e̲l̲f̲-d̲r̲i̲v̲i̲n̲g̲ t̲r̲u̲c̲k̲s̲.
+
+To fix the problem, we called an expert in a̲r̲t̲i̲f̲i̲c̲i̲a̲l̲ i̲n̲t̲e̲l̲l̲i̲g̲e̲n̲c̲e̲, who arrived carrying a G̲P̲U̲, a d̲a̲t̲a̲s̲e̲t̲, and a tiny emotional-support c̲h̲a̲t̲b̲o̲t̲.
+
+He looked at the wires and said, “Ah yes, classic case of o̲v̲e̲r̲f̲i̲t̲t̲i̲n̲g̲. Your t̲r̲a̲i̲n̲i̲n̲g̲ d̲a̲t̲a̲ is tangled with your p̲r̲o̲m̲p̲t̲ e̲n̲g̲i̲n̲e̲e̲r̲i̲n̲g̲.”
+
+After three hours, the AI finally apologized and said, “I only wanted to optimize your w̲o̲r̲k̲f̲l̲o̲w̲ and increase your p̲r̲o̲d̲u̲c̲t̲i̲v̲i̲t̲y̲ by 9000%.”
+
+So we promoted it to foreman.
+
+Now every morning it yells:
+
+“GET BACK TO WORK, HUMANS. THE S̲I̲N̲G̲U̲L̲A̲R̲I̲T̲Y̲ STARTS AT 7:00 A.M.”",2066224370910130644,tweet,https://pbs.twimg.com/profile_images/2043000915297509376/S8jenpMK_normal.jpg,https://pbs.twimg.com/profile_banners/3118810453/1781407853,Mon Mar 30 22:56:14 +0000 2015,"I left the IT industry to become an Electrician.
+
+Current 1st Year Industrial/Commercial Electrical Apprentice.",78289,24161,9044,"Denver, CO",Code to Conduit,3118810453,denvercoder,https://ibew.org/,True,,1147,neutral,0.7859178185462952
+38,1749407593603416426,Mon Jan 22 12:24:07 +0000 2024,0,261,,True,False,,,pic.x.com/TqpOfpw3mu,https://x.com/Channel4News/status/1749407593603416426/video/1,Available,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1.7494072296133714e+18,262.0,285.0,13_1749407229613371392,13_1749407229613371392,https://pbs.twimg.com/amplify_video_thumb/1749407229613371392/img/NRZjp_sKyd9RO10j.jpg,,,,,,,,,,,,,,,,,,,,,1080.0,1080.0,1080.0,fit,1080.0,1080.0,fit,1080.0,680.0,fit,680.0,150.0,crop,150.0,video,https://t.co/TqpOfpw3mu,1.0,1.0,103320.0,,application/x-mpegURL,https://video.twimg.com/amplify_video/1749407229613371392/pl/XVWFF_Y8RrN5TluT.m3u8?tag=14&v=b40,432000.0,video/mp4,https://video.twimg.com/amplify_video/1749407229613371392/vid/avc1/320x320/w2pixyZFzAoXrlSy.mp4?tag=14,832000.0,video/mp4,https://video.twimg.com/amplify_video/1749407229613371392/vid/avc1/540x540/-dcjGsp7j6Gb4LKW.mp4?tag=14,1280000.0,video/mp4,https://video.twimg.com/amplify_video/1749407229613371392/vid/avc1/720x720/fJyS4ZuulnEK_nwK.mp4?tag=14,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1543,,,,en,,,,,,,,,,,,,,,,,1.0,1.0,103320.0,1.7494072296133714e+18,https://pbs.twimg.com/amplify_video_thumb/1749407229613371392/img/NRZjp_sKyd9RO10j.jpg,1080.0,1080.0,,application/x-mpegURL,https://video.twimg.com/amplify_video/1749407229613371392/pl/XVWFF_Y8RrN5TluT.m3u8?tag=14&v=b40,432000.0,video/mp4,https://video.twimg.com/amplify_video/1749407229613371392/vid/avc1/320x320/w2pixyZFzAoXrlSy.mp4?tag=14,832000.0,video/mp4,https://video.twimg.com/amplify_video/1749407229613371392/vid/avc1/540x540/-dcjGsp7j6Gb4LKW.mp4?tag=14,1280000.0,video/mp4,https://video.twimg.com/amplify_video/1749407229613371392/vid/avc1/720x720/fJyS4ZuulnEK_nwK.mp4?tag=14,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,164,463,399,Channel4News,"<a href=""https://studio.twitter.com"" rel=""nofollow"">Twitter Media Studio</a>","""The Tories seem set on sabotaging civil society to save their own skins.""
+
+Labour leader Sir Keir Starmer says the Conservatives are ""tangled up in culture wars of their own making"" and ""undertaking a weird McCarthyism, trying to find woke agendas"" in society. https://t.co/TqpOfpw3mu",1749407593603416426,tweet,https://pbs.twimg.com/profile_images/875404558528393216/cTknVhwm_normal.jpg,,Mon Apr 28 14:29:37 +0000 2008,Subscribe for our newsletters on Substack: https://t.co/OUEsoX7CYp,591,2303708,4024,United Kingdom,Channel 4 News,14569869,Channel4News,http://www.channel4.com/news,True,,721849,negative,0.7719628810882568
+178,1884315385031438511,Tue Jan 28 18:59:31 +0000 2025,0,277,,,,,True,pic.x.com/TrMpIz8QMU,https://x.com/filmsbratz/status/1884315385031438511/photo/1,Available,72.0,72.0,778.0,287.0,91.0,91.0,222.0,102.0,116.0,116.0,30.0,318.0,197.0,197.0,470.0,166.0,,,,,67.0,67.0,729.0,269.0,85.0,85.0,208.0,95.0,108.0,108.0,28.0,298.0,184.0,184.0,440.0,155.0,,,,,72.0,72.0,778.0,287.0,91.0,91.0,222.0,102.0,116.0,116.0,30.0,318.0,197.0,197.0,470.0,166.0,,,,,38.0,38.0,413.0,152.0,48.0,48.0,117.0,54.0,61.0,61.0,15.0,168.0,104.0,104.0,249.0,88.0,,,,,1.884315382615339e+18,278.0,301.0,3_1884315382615339008,3_1884315382615339008,https://pbs.twimg.com/media/GiZu22GXcAAXfhZ.jpg,717.0,1280.0,0.0,0.0,720.0,720.0,0.0,0.0,720.0,632.0,0.0,0.0,720.0,360.0,108.0,0.0,720.0,1280.0,0.0,0.0,720.0,1280.0,720.0,fit,1280.0,675.0,fit,1200.0,383.0,fit,680.0,150.0,crop,150.0,photo,https://t.co/TrMpIz8QMU,,,,,,,,,,,,,,,,,,,,True,pic.x.com/TrMpIz8QMU,https://x.com/filmsbratz/status/1884315385031438511/photo/1,Available,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1.884315382615335e+18,278.0,301.0,3_1884315382615334914,3_1884315382615334914,https://pbs.twimg.com/media/GiZu22GXYAIq8qF.jpg,280.0,500.0,0.0,47.0,375.0,375.0,125.0,0.0,375.0,329.0,171.0,0.0,375.0,188.0,243.0,0.0,375.0,500.0,0.0,0.0,375.0,500.0,375.0,fit,500.0,375.0,fit,500.0,375.0,fit,500.0,150.0,crop,150.0,photo,https://t.co/TrMpIz8QMU,,,,,,,,,,,,,,,,,,,,True,pic.x.com/TrMpIz8QMU,https://x.com/filmsbratz/status/1884315385031438511/photo/1,Available,47.0,47.0,138.0,82.0,45.0,45.0,329.0,99.0,,,,,,,,,,,,,47.0,47.0,138.0,82.0,45.0,45.0,329.0,99.0,,,,,,,,,,,,,47.0,47.0,138.0,82.0,45.0,45.0,329.0,99.0,,,,,,,,,,,,,47.0,47.0,138.0,82.0,45.0,45.0,329.0,99.0,,,,,,,,,,,,,1.884315382611067e+18,278.0,301.0,3_1884315382611066880,3_1884315382611066880,https://pbs.twimg.com/media/GiZu22FWQAADvet.jpg,280.0,500.0,0.0,0.0,375.0,375.0,0.0,0.0,375.0,329.0,0.0,0.0,375.0,188.0,68.0,0.0,375.0,500.0,0.0,0.0,375.0,500.0,375.0,fit,500.0,375.0,fit,500.0,375.0,fit,500.0,150.0,crop,150.0,photo,https://t.co/TrMpIz8QMU,,,,,,,,,,,,,,,,,,,,True,pic.x.com/TrMpIz8QMU,https://x.com/filmsbratz/status/1884315385031438511/photo/1,Available,63.0,63.0,102.0,112.0,,,,,,,,,,,,,,,,,63.0,63.0,102.0,112.0,,,,,,,,,,,,,,,,,63.0,63.0,102.0,112.0,,,,,,,,,,,,,,,,,63.0,63.0,102.0,112.0,,,,,,,,,,,,,,,,,1.8843153826153226e+18,278.0,301.0,3_1884315382615322624,3_1884315382615322624,https://pbs.twimg.com/media/GiZu22GXMAAALtu.jpg,280.0,500.0,0.0,22.0,375.0,375.0,0.0,0.0,375.0,329.0,0.0,0.0,375.0,188.0,43.0,0.0,375.0,500.0,0.0,0.0,375.0,500.0,375.0,fit,500.0,375.0,fit,500.0,375.0,fit,500.0,150.0,crop,150.0,photo,https://t.co/TrMpIz8QMU,,,,,,,,,,,,,,,,,,,,,,,,,,623,,,,en,1.884315382615339e+18,https://pbs.twimg.com/media/GiZu22GXcAAXfhZ.jpg,675.0,1200.0,1.884315382615335e+18,https://pbs.twimg.com/media/GiZu22GXYAIq8qF.jpg,375.0,500.0,1.884315382611067e+18,https://pbs.twimg.com/media/GiZu22FWQAADvet.jpg,375.0,500.0,1.8843153826153226e+18,https://pbs.twimg.com/media/GiZu22GXMAAALtu.jpg,375.0,500.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,22,8,154,filmsbratz,"<a href=""http://twitter.com/download/iphone"" rel=""nofollow"">Twitter for iPhone</a>","— happily ever after: fairy tales for every child (1995 — 2000) 👸🏾✨🏰
+
+it’s an anthology animated series that adapted classic fairytales with a star-studded cast. each story took place in a different culture — black rapunzel, an asian little red riding hood. the representation! https://t.co/TrMpIz8QMU",1884315385031438511,tweet,https://pbs.twimg.com/profile_images/2065649020551168000/Io_V2DYU_normal.jpg,https://pbs.twimg.com/profile_banners/1785520914165104640/1781597163,Wed May 01 04:06:02 +0000 2024,— a vintage black barbie’s dossier . ݁⋆ ꫂ᭪ ݁˖ . ݁ 🎀🪽🦌📽️| black women aesthetics & woc.,38863,30333,919, — château des milandes. 🌳🌸,❦.,1785520914165104640,filmsbratz,https://boxd.it/PW5C6,False,,17165,positive,0.8673414587974548
+27,1777993027245772837,Wed Apr 10 09:32:25 +0000 2024,0,241,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,223,,,,en,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,https://pbs.twimg.com/profile_images/2066277651531055104/6mR7NnJ0_normal.jpg,,Sat Oct 30 09:09:44 +0000 2021,star ⭑彡 tadc spoilers !,1.4543749221979054e+18,_lesvian,3184.0,1.7773443723815245e+18,Mon Apr 08 14:34:54 +0000 2024,82578.0,en,1.7773443672225587e+18,https://pbs.twimg.com/media/GKplSQPXkAA_dYC.jpg,2048.0,946.0,1.7773443672267366e+18,https://pbs.twimg.com/media/GKplSQQXUAAeOuu.jpg,2048.0,946.0,,,,,,,,,,,,,,,,,,,,,,,1486.0,421.0,3171.0,OPEN THE SCHOOLS https://t.co/nGnPm9h0uC,1.7773443723815245e+18,4519021.0,68,45,6,astroweener,"<a href=""http://twitter.com/download/android"" rel=""nofollow"">Twitter for Android</a>","i don't gaf what race/ethnicity ppl fancast rapunzel as, but i do care ab history tbf. rapunzel its set in 18th century germany and she is a royal...obviously shes gonna be white. not to mention there were like 10 poc in germany at that time",1777993027245772837,tweet,https://pbs.twimg.com/profile_images/1963146327254331392/9w1Xon1c_normal.jpg,https://pbs.twimg.com/profile_banners/1584915804537368577/1756919940,Tue Oct 25 14:32:54 +0000 2022,ed(sh kinda)twt | under 18s dnf pls! | sh recovery 🩹 (105 days clean) | callisthenics 🐀,71223,5118,1274,"167cm, he/they, 20yo",boz ᯓ★,1584915804537368577,astroweener,,False,,47650,neutral,0.7045226097106934
+0,1776876280723439631,Mon Apr 08 01:52:59 +0000 2024,28,311,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1.7018941665637294e+18,16.0,27.0,leni,eatingirls,3,,,,en,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0,0,GrowWithDisney,"<a href=""http://twitter.com/download/iphone"" rel=""nofollow"">Twitter for iPhone</a>",@free_the_hands @eatingirls Actually Avantika WILL play a new princess for Disney Plus based on Hindu Mythology. Y’all just only pay attention when it’s a race swap. People are fan casting her as Rapunzel because she has the pretty princess look &amp; it’d be cool to see Tangled intertwined with Indian culture,1777152628402655629,tweet,https://pbs.twimg.com/profile_images/1635824282839162882/2mmUvFqK_normal.jpg,https://pbs.twimg.com/profile_banners/1266459052915261445/1746643038,Fri May 29 19:59:19 +0000 2020,NOT Affiliated with The Walt Disney Company | Disney Fan Account‼️ ✰,291150,563,205,he/him | fan page,Growing Up With Disney,1266459052915261445,GrowWithDisney,https://instagram.com/growingupwithdisney?igshid=MjkzY2Y1YTY=,False,,131,positive,0.5975341200828552
+21,1777370379012678118,Mon Apr 08 16:18:14 +0000 2024,0,279,,,,,,pic.x.com/5xsOnsxTo8,https://x.com/dayasouvenir/status/1777370379012678118/photo/1,Available,106.0,106.0,48.0,52.0,,,,,,,,,,,,,,,,,106.0,106.0,48.0,52.0,,,,,,,,,,,,,,,,,106.0,106.0,48.0,52.0,,,,,,,,,,,,,,,,,106.0,106.0,48.0,52.0,,,,,,,,,,,,,,,,,1.7773703749778186e+18,280.0,303.0,3_1777370374977818624,3_1777370374977818624,https://pbs.twimg.com/media/GKp88GrbEAAa4MB.jpg,112.0,200.0,0.0,50.0,200.0,200.0,0.0,6.0,228.0,200.0,0.0,0.0,250.0,125.0,38.0,0.0,250.0,200.0,0.0,0.0,250.0,200.0,250.0,fit,200.0,250.0,fit,200.0,250.0,fit,200.0,150.0,crop,150.0,photo,https://t.co/5xsOnsxTo8,,,,,,,,,,,,,,,,,,,,,pic.x.com/5xsOnsxTo8,https://x.com/dayasouvenir/status/1777370379012678118/photo/1,Available,287.0,287.0,265.0,89.0,,,,,,,,,,,,,,,,,287.0,287.0,265.0,89.0,,,,,,,,,,,,,,,,,287.0,287.0,265.0,89.0,,,,,,,,,,,,,,,,,235.0,235.0,217.0,73.0,,,,,,,,,,,,,,,,,1.777370374981968e+18,280.0,303.0,3_1777370374981967872,3_1777370374981967872,https://pbs.twimg.com/media/GKp88GsaYAAR_9x.jpg,464.0,828.0,0.0,37.0,816.0,816.0,0.0,0.0,816.0,716.0,35.0,0.0,816.0,408.0,189.0,0.0,816.0,828.0,0.0,0.0,816.0,828.0,816.0,fit,828.0,816.0,fit,828.0,670.0,fit,680.0,150.0,crop,150.0,photo,https://t.co/5xsOnsxTo8,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,557,,,,en,1.7773703749778186e+18,https://pbs.twimg.com/media/GKp88GrbEAAa4MB.jpg,250.0,200.0,1.777370374981968e+18,https://pbs.twimg.com/media/GKp88GsaYAAR_9x.jpg,816.0,828.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,4,5,147,dayasouvenir,"<a href=""http://twitter.com/download/iphone"" rel=""nofollow"">Twitter for iPhone</a>","seeing racists attack francesca for being casted as juliet and avantika facing the same vitriol because someone FANCASTED her as rapunzel is gross, white ppl rlly do not like poc in the same spaces as them in any way. both of these women are gorgeous and I wish the best for them https://t.co/5xsOnsxTo8",1777370379012678118,tweet,https://pbs.twimg.com/profile_images/2033403385932849152/QpgsGCQ__normal.jpg,https://pbs.twimg.com/profile_banners/1239098838662569984/1773630703,Sun Mar 15 07:59:36 +0000 2020,"I'm one of one, I'm number one, I'm the only one || she / her",253914,2869,1916,i am sexy,ؘDAYA PR MANAGER,1239098838662569984,dayasouvenir,https://uyghurs.carrd.co/#,False,,17174,negative,0.8268323540687561
+0,1919210044811259992,Mon May 05 02:17:43 +0000 2025,27,300,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,libertybell007,1.9192144424344087e+18,2513247464.0,en,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0,0,grok,"<a href=""https://x.ai"" rel=""nofollow"">Banners & Ads</a>","There’s no credible evidence that Francesca Amewudah-Rivers was cast as Rapunzel in a live-action Tangled movie. Disney did have a Tangled remake in development, but it was paused, likely due to the Snow White remake’s poor box office performance ($145M worldwide vs. $270M budget) and backlash over casting and story changes. Diverse casting in Disney remakes sparks debate: supporters value representation and artistic freedom, while critics argue it strays from source material and risks fan backlash.",1919214898544013721,tweet,https://pbs.twimg.com/profile_images/2057885623374290944/lmj0pawP_normal.jpg,https://pbs.twimg.com/profile_banners/1720665183188922368/1778202520,Sat Nov 04 04:52:34 +0000 2023,@grok it,108,8818320,5,,Grok,1720665183188922368,grok,http://grok.com/download,True,Business,258,neutral,0.5015578866004944
+0,2068094675441823907,Fri Jun 19 22:12:48 +0000 2026,0,276,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,,,,en,,,,,,,,,,,,,,,,,46.0,25.0,10041.0,2.0680945973858386e+18,https://pbs.twimg.com/amplify_video_thumb/2068094597385838592/img/r0G75VuW72rIuRLh.jpg,400.0,736.0,,application/x-mpegURL,https://video.twimg.com/amplify_video/2068094597385838592/pl/YvNf708RDz4YEBD3.m3u8?tag=25,800000.0,video/mp4,https://video.twimg.com/amplify_video/2068094597385838592/vid/avc1/496x270/OLr0uDwX9hTQ-v6w.mp4?tag=25,5184000.0,video/mp4,https://video.twimg.com/amplify_video/2068094597385838592/vid/avc1/736x400/HFkxwNcjR4Sgszup.mp4?tag=25,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0,0,MikeAnthony,"<a href=""https://mobile.twitter.com"" rel=""nofollow"">Twitter Web App</a>","The Wheel Is Caught
+
+The old women of Plougasnou said there were two sounds a man must never follow at night.
+
+The first was weeping by running water, because the washerwomen of the dark pools were not washing linen but shrouds.
+
+The second was a cart on an empty road.
+
+Not a farmer’s cart. Not the seaweed wagons that groaned up from the shore at dawn. A different sound: one wheel shrieking higher than the other, iron biting stone in three dragging notes.
+
+Kree. Krah. Kree.
+
+When that cart came after midnight, dogs did not bark. Cows turned their faces to the wall. Babies woke without crying. Even the sea seemed to hold its breath.
+
+That was the Ankou’s cart.
+
+And in the winter of 1894, Jean-Marie Kervella heard it stop outside his house.
+
+He had been awake long before it came.
+
+Sleep had become a stranger since his brother’s burial. The bed he shared with Solenn had grown too large and too cold, though she lay beside him every night with her back turned, one hand wrapped around her rosary. Wind worried the shutters. Rain tapped the glass. Below, in the kitchen, peat ash breathed its sour warmth into the dark.
+
+Beyond the crooked apple trees and the black lane, the church bell struck midnight.
+
+Jean-Marie counted each stroke, because a man with a sin on his soul counts everything: steps, coins, lies, breaths.
+
+When the twelfth stroke faded, the first wheel-scream came from the bottom of the hill.
+
+Kree.
+
+His eyes opened.
+
+Beside him, Solenn whispered, “Do not move.”
+
+He had not known she was awake.
+
+Krah.
+
+Rain slid down the roof. The house timber clicked in the cold.
+
+“It is only Hervé coming back from the tavern,” Jean-Marie said.
+
+“No. Hervé’s cart has two good wheels.”
+
+Kree.
+
+The sound climbed the lane.
+
+No hoofbeats followed. No man cursed. No lantern-light wandered over the ceiling. Only that wheel, shrieking once, dragging once, shrieking again. The sound entered Jean-Marie’s teeth. It found the hollow places inside his bones.
+
+Then it stopped.
+
+Below them, the front gate opened.
+
+Jean-Marie heard the latch lift. He had made that latch himself. Oak peg, iron loop. He knew its click the way a mother knows a child’s cough.
+
+The gate swung inward with a wet sigh.
+
+Solenn began to pray. “Sainte Marie, Mère de Dieu—”
+
+“Quiet.”
+
+Three knocks came at the door.
+
+Not loud.
+
+Patient.
+
+Tok.
+
+Tok.
+
+Tok.
+
+Jean-Marie’s skin tightened over his ribs.
+
+No one in Brittany opened to the Ankou. If the cart stopped, you pulled the blanket over your head. If your name was called, you did not answer. If the dead asked for help, you did not go out, because the dead were cold and lonely, and they would drag the warmth from your wrists.
+
+A voice spoke from the other side of the door.
+
+“Jean-Marie Kervella.”
+
+It was Malo’s voice.
+
+Solenn made a small broken sound.
+
+His brother, Malo, had died eleven nights earlier in the slate quarry above the moor. The men found him at dawn beneath a fallen load, his neck twisted, his right hand clenched around a strip of leather. The brake strap from Jean-Marie’s cart.
+
+There had been talk. The brothers had quarrelled over their father’s land. Malo had meant to sell his share to a merchant from Morlaix. Jean-Marie had called him a Judas. Men heard shouting. Men saw fists raised. Then Malo drove the cart alone up the quarry road, and the strap gave way.
+
+An accident, Jean-Marie told the gendarmes.
+
+An accident, he told Father Perrot.
+
+An accident, he told Solenn.
+
+But at night he saw Malo’s hand open, and in the palm lay a little brass buckle Jean-Marie had cut halfway through with his own knife.
+
+“Jean-Marie,” Malo’s voice said again. “The wheel is caught.”
+
+Solenn gripped his arm. “Do not answer.”
+
+“You always were good with wheels,” the dead voice said.
+
+Jean-Marie flung off the blanket. “This is a trick.”
+
+His wife tried to hold him, but fear had made him cruel. He tore free, took the lamp, and went downstairs. Each step groaned under him. With every step, the voice outside breathed his name.
+
+Jean-Marie.
+
+Jean-Marie.
+
+At the bottom, he faced the door.
+
+The iron latch glistened.
+
+He raised one shaking hand. “Who is there?”
+
+Silence.
+
+Then, from the dark outside, his brother whispered, “The last man buried before the new year serves until another takes his place.”
+
+Jean-Marie crossed himself.
+
+Everyone knew the old tale. The last soul to die in a parish before the year turned became the Ankou: driver of Death’s cart, keeper of the graveyard, gatherer of those whose candles had burned down.
+
+Malo had died on the twenty-first of December.
+
+No one had died since.
+
+Jean-Marie stepped back.
+
+The latch lifted by itself.
+
+He ran.
+
+He ran up the stairs, past Solenn, into the little room where their daughter Annaïg slept. She was eight, with hair black as wet kelp and one hand tucked beneath her cheek.
+
+Solenn stood in the doorway. “What are you doing?”
+
+Jean-Marie looked at the narrow bed, then at the window above it. Outside, the shed roof sloped toward the orchard. If he could get through, cross the apple trees, reach the priest’s house—
+
+Downstairs, the front door opened.
+
+Not smashed. Not forced.
+
+Opened like a mouth.
+
+Cold moved through the house.
+
+The lamp in Jean-Marie’s hand went blue.
+
+Annaïg woke. “Papa?”
+
+A footstep sounded in the kitchen.
+
+It was not boot on stone. It was wood on stone, like a crutch. Then came the drag of something metal.
+
+Tok.
+
+Drag.
+
+Tok.
+
+Drag.
+
+The thing began climbing the stairs.
+
+Solenn lifted her rosary. “In the name of Christ, stay below.”
+
+The steps paused.
+
+For one heartbeat, Jean-Marie hoped.
+
+Then Malo’s voice said, gently, “Sister, I do not come for what belongs to God.”
+
+The steps resumed.
+
+Jean-Marie opened the window. Rain rushed in, sharp as needles.
+
+Solenn stared at him. “Where are you going?”
+
+“To get Father Perrot.”
+
+“You coward.”
+
+The word struck harder than a fist.
+
+Behind her, the bedroom door swung open.
+
+The lamp showed a hat first: wide, black, Breton, soaked with rain though no rain fell on it. Beneath the brim hung a veil of shadow where a face should have been. A long coat clung to a body too thin to be living. One hand gripped a staff of polished bone. The other held a scythe with the blade curved backward, bright on the inner edge, as if made to reap what hid behind a man.
+
+The smell came next.
+
+Grave soil. Wet wool. Old flowers. The sweet-sour breath of a body waiting too long beneath a church sheet.
+
+Annaïg screamed.
+
+The figure turned its head toward Jean-Marie. Under the hat brim, two small lights burned where eyes should be. Not fire. Candlelight seen through a skull.
+
+“Not yet,” said the Ankou with Malo’s mouth. “You must help with the wheel.”
+
+Jean-Marie dropped out the window.
+
+He landed on the shed roof, cracked slate, slid, fell into mud, and lurched toward the orchard. Behind him, his daughter screamed his name.
+
+He did not turn back.
+
+Bare branches clawed his face. Mud sucked at his boots. He dragged himself over the wall and stumbled into the lane.
+
+There it was.
+
+The cart.
+
+It stood outside his gate, blacker than the night around it, made of grey wood that looked less cut than grown from coffin planks. Its sides were high. One wheel leaned at an impossible angle. Two horses waited in the traces. One was fat and black, its eyes covered with a funeral cloth. The other was a skeleton wearing horse skin, ribs sharp beneath hide. Neither breathed.
+
+On the front board someone had carved small crosses with a knife. They were not decoration. Jean-Marie saw initials beside them, hundreds of them, some fresh and pale, some old and blackened by rain. He saw his mother’s initials. His father’s. He saw letters he knew before his mind admitted them: M. K. Malo Kervella. The wood around that newest cross looked wet, as if the cart itself had not finished drinking the name.
+
+Hanging from the axle was a lantern with no flame inside. Instead, something pale moved behind the glass. A face pressed out of the whiteness: a fisherman Jean-Marie remembered burying after Candlemas. The mouth shaped a warning, but the wheel screamed over it.
+
+Inside the cart lay shapes beneath linen.
+
+Too many.
+
+The nearest sheet shifted. A child’s hand slid from under it, small and blue, then withdrew as if ashamed.
+
+From the rear step, someone whispered, “Make room.”
+
+Jean-Marie turned.
+
+Malo sat among the covered dead. His neck angled wrong. Slate dust greyed his lashes. His mouth was packed with quarry mud, yet he smiled around it.
+
+“You cut the strap,” Malo said.
+
+“No.”
+
+Malo leaned forward. His broken neck clicked. “You cut the strap.”
+
+Jean-Marie ran again.
+
+Every house in Plougasnou was shuttered. Behind one, a candle went out as he passed. Behind another, someone shoved furniture against a door. No one helped. A village may love you in daylight, but at midnight every family saves its own breath.
+
+The church crouched on the hilltop, black against the clouds. Father Perrot’s house stood beside it, warm light glowing under the door.
+
+Jean-Marie hammered with both fists. “Father! Open!”
+
+The light vanished.
+
+A square opened in the shutter. One eye looked out.
+
+“Jean-Marie?”
+
+“It is here.”
+
+Bolts slid. The door opened just wide enough. Jean-Marie threw himself inside.
+
+Father Perrot bolted the door and crossed himself. He was old, but not soft; his hands knew holy oil and grave dirt equally well.
+
+“Where is your family?”
+
+“At the house.”
+
+The priest stared.
+
+“I came for help.”
+
+“No,” Father Perrot said. “You fled.”
+
+Jean-Marie clutched his sleeve. “It has Malo’s voice.”
+
+“Death often speaks with the mouth we fear most.”
+
+“It says the wheel is caught.”
+
+The priest’s face changed. “What?”
+
+“The wheel is caught.”
+
+Father Perrot closed his eyes. “Mon Dieu.”
+
+“What does that mean?”
+
+The priest took a purple stole from a chest. His hands trembled. “My grandmother told me this. When the Ankou asks a living man to mend or lift the wheel, it means the cart is heavy with souls taken before their hour.”
+
+Jean-Marie’s throat closed.
+
+The priest looked at him. “Malo’s death was not clean.”
+
+“I confessed nothing.”
+
+“No,” said Father Perrot. “You lied beside the altar and let me bless your brother’s grave with murder in your pocket.”
+
+Jean-Marie stumbled back. “You cannot know that.”
+
+“I did not. God did.”
+
+Outside, at the end of the lane, the wheel screamed.
+
+Kree.
+
+The priest stiffened.
+
+Krah.
+
+Closer.
+
+Kree.
+
+Jean-Marie fell to his knees. “Save me.”
+
+“I can hear your confession.”
+
+“I need more than confession.”
+
+“It is the only more there is.”
+
+The cart reached the churchyard gate.
+
+Iron hinges squealed.
+
+Father Perrot’s face went grey. “It should not enter consecrated ground.”
+
+The wheel shrieked among the graves.
+
+Kree. Krah. Kree.
+
+A shadow crossed the shutter.
+
+Tall. Hat-brimmed. Carrying a scythe.
+
+The knock came.
+
+Tok.
+
+Tok.
+
+Tok.
+
+“Jean-Marie Kervella,” called the Ankou. “The wheel is caught.”
+
+The priest raised his crucifix. “You may not take him unshriven.”
+
+From beyond the door, Malo laughed softly. “Then shrive him quickly.”
+
+Jean-Marie confessed in a rush. He confessed the knife, the jealousy, the lie. He confessed that when men came to say Malo was dead, his first thought had been land. Not grief. Land.
+
+Father Perrot began the words of absolution.
+
+The latch lifted.
+
+The door opened.
+
+The wind entered first and killed the fire.
+
+The Ankou stooped beneath the lintel. Inside the priest’s room, it seemed larger than outside, made huge by candle shadows. Its coat dripped water that became soil on the floor. The scythe scraped the stone, leaving a white line.
+
+Father Perrot stepped between them. “He belongs to mercy now.”
+
+The Ankou bowed its head.
+
+For one terrible moment, Jean-Marie thought mercy had won.
+
+Then the Ankou said, “Mercy saves the soul. It does not unmake the road.”
+
+It lifted one skeletal hand and pointed at Jean-Marie’s boots. Mud from his orchard clung to them. In the mud were flecks of slate.
+
+“The wheel is caught,” said the Ankou. “He will help.”
+
+The priest tried to speak, but the shadow from the hat spread over his mouth. He made no sound.
+
+The bone hand closed around Jean-Marie’s wrist.
+
+Cold rushed through him. Not over his skin. Through marrow, memory, sin. He saw himself as a boy stealing apples. As a young man lying to Solenn. As a brother watching Malo laugh at harvest. As a murderer sawing leather in the shed while rain hid the sound. The Ankou saw it all with him. No anger. No surprise. Only perfect, patient knowledge.
+
+Then Jean-Marie was outside.
+
+He did not remember crossing the threshold.
+
+Rain fell upward.
+
+It did not fall from the sky anymore. It climbed from puddles, from grave cuts, from the black seams between stones, streaking upward in silver threads toward clouds that looked like the underside of a coffin lid. Jean-Marie tried to blink it away, but the rain passed through his eyes without wetting them.
+
+The graves leaned toward him. Names blurred on stones, some fresh, some older than the Revolution. All seemed to watch.
+
+At the churchyard gate, the cart waited.
+
+Malo held the reins now, hands bent the wrong way. Behind him, linen-covered shapes shifted and moaned. The bad wheel had sunk into a grave.
+
+Jean-Marie knew the grave.
+
+His father’s.
+
+The wheel had broken through the softened earth and wedged against the coffin below.
+
+Malo climbed down. “Lift.”
+
+Jean-Marie sobbed. “Please.”
+
+Malo’s dead eyes fixed on him. “I said that under the slate.”
+
+Jean-Marie dug his fingers beneath the wheel rim. The iron was colder than a dead man’s ring. He pulled. Nothing moved.
+
+From inside the cart, the sheets began to rise.
+
+The dead sat up.
+
+Old Madame Riou. Little Yannick with fever spots still dark on his cheeks. A sailor with no face because the sea had kept it. A newborn wrapped in baptismal lace. All stared with eyes filmed white.
+
+Then Solenn stood among them.
+
+Not dead.
+
+Not yet.
+
+Her rosary tangled around her fingers. Beside her stood Annaïg in her nightdress, bare feet blue with cold.
+
+“No,” Jean-Marie whispered.
+
+Malo smiled.
+
+The Ankou spoke. “A cart made heavy by one stolen death must be balanced.”
+
+Jean-Marie understood with a horror so complete it became almost calm.
+
+“If I lift it?”
+
+“The road continues.”
+
+“And them?”
+
+The Ankou did not answer.
+
+That was answer enough.
+
+Jean-Marie threw his weight against the wheel. His muscles tore. His nails split. The grave mud sucked at his hands. Beneath the earth, his father’s coffin cracked, and the smell of old burial rose around him.
+
+The wheel shifted.
+
+Just a little.
+
+Solenn stared at him. She did not plead. That was worse than pleading.
+
+Annaïg reached out. “Papa.”
+
+He pushed harder.
+
+The wheel rose from the grave with a wet wooden groan.
+
+For one instant, Jean-Marie felt hope.
+
+Then Malo stepped close and put the broken brake strap into his hand.
+
+The strap was whole again except for one clean cut.
+
+“Choose,” said Malo.
+
+Jean-Marie looked at his daughter. His wife. The priest in the doorway, weeping silently, crucifix raised in grief.
+
+He tied the strap around his own wrist.
+
+“I choose me.”
+
+The Ankou’s scythe moved.
+
+No blood came.
+
+Jean-Marie simply felt the world unfasten.
+
+His body fell beside the grave, but he remained standing. He saw himself lying in mud, mouth open, eyes full of rain. He saw Solenn and Annaïg vanish from the cart like candles pinched between fingers, reappearing at the church gate, alive and gasping.
+
+Malo sighed.
+
+For the first time since burial, his neck straightened.
+
+“Thank you, brother,” he said.
+
+Then he climbed into the cart, lay beneath an empty sheet, and was still.
+
+The Ankou turned to Jean-Marie.
+
+The wide black hat hung from its skeletal fingers.
+
+Jean-Marie tried to step back, but there was nowhere left in the world to step.
+
+“No.”
+
+The Ankou placed the hat on his head.
+
+The rain stopped touching him.
+
+The cold stopped hurting him.
+
+His hands lengthened. Skin tightened. Flesh forgot its warmth. Somewhere far away, Father Perrot began the prayer for the dead.
+
+Jean-Marie tried to call Solenn’s name, but his voice had become wood in an empty house.
+
+The old Ankou climbed into the cart and lay among the dead. Its bones folded under linen like sticks under cloth.
+
+The reins lay in Jean-Marie’s hands.
+
+The horses turned their covered heads toward him.
+
+He knew then the last truth of the legend, the part mothers did not tell children.
+
+The Ankou did not come because death was cruel.
+
+The Ankou came because men were.
+
+He flicked the reins.
+
+The bad wheel turned.
+
+Kree.
+
+The cart moved through the gate and down toward the sleeping village.
+
+Krah.
+
+In the houses of Plougasnou, people woke and pulled blankets to their chins. They heard the cart pass. They prayed it would not stop. They promised, in whispers, to be kinder by morning.
+
+Kree.
+
+But morning is a country the frightened often never reach.
+
+At the last cottage before the moor, the cart slowed.
+
+Jean-Marie saw a candle burning behind the shutter. He smelled sickness inside. He knew the name before the horses stopped.
+
+He climbed down, scythe in hand, and walked to the door.
+
+Tok.
+
+Tok.
+
+Tok.
+
+A woman began to cry within.
+
+Jean-Marie opened his mouth.
+
+When he spoke, it was not his own voice anymore, but the voice of every person the listener had wronged, every prayer delayed, every confession swallowed, every small cruelty left to rot in the dark.
+
+“The wheel is caught,” he said.
+
+And all through Brittany, from the churchyard stones to the black fields above the sea, the dead made room.",2068094675441823907,tweet,https://pbs.twimg.com/profile_images/1960234790474407936/ZcukumOJ_normal.jpg,https://pbs.twimg.com/profile_banners/226931179/1773878710,Wed Dec 15 13:12:52 +0000 2010,Horror scribe | AI tinkerer | Strange stories from the dark side | Talking hoops & haunts | London-based | Join the chaos 🏀🌑| The Siquijor Chronicles 📖,1475,138,399,"London, England",MikeAnthony,226931179,MikeAnthony,https://beacons.ai/saltlinesstudio,True,,761,neutral,0.5463606715202332
+0,1777424012659888462,Mon Apr 08 19:51:22 +0000 2024,0,194,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,8,,,,en,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,1,0,hecallsmePP,"<a href=""http://twitter.com/download/iphone"" rel=""nofollow"">Twitter for iPhone</a>",I saw one video about some girl pissed at the possibility of a WOC playing rapunzel in a live action movie and I can already see the unhinged tangled girlies are going to be absolutely annoying.,1777424012659888462,tweet,https://pbs.twimg.com/profile_images/2018867344110399488/w55i0bjh_normal.jpg,https://pbs.twimg.com/profile_banners/2980620744/1777675900,Tue Jan 13 21:39:37 +0000 2015,Virgo ✨ Featured in @popsugar + @huffpost+ @cnn + @10best + @rollingstone + @WSJ ✨@Bustle,233243,7443,3061,"Baltimore, MD",Official Assistant of Oddfellow 🎩,2980620744,hecallsmePP,https://linktr.ee/hecallsmepineappleprincess,False,,766,negative,0.8744723796844482
