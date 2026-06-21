@@ -1,0 +1,3 @@
+text,created_at,label,confidence
+"An alternative highly vocal WOC lead would match Ariel","Tue Sep 13 10:45:00 +0000 2022",positive,0.96
+"Twitter discussions debating the fairytale adaptation changes","Wed Sep 14 16:12:00 +0000 2022",negative,0.74
